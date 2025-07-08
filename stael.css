@@ -1,0 +1,50 @@
+
+
+
+body {
+    background-color: #2A5D5A;
+}
+
+
+
+.text {
+    display: flex;
+    justify-content: center;
+    border: 1px ;
+    background-color: #311313;
+    color: white;
+    width: 500px;
+    align-items: center;
+    text-align: center;
+    margin-left: 505px;
+}
+
+
+.text h1 {
+    text-align: center;
+    align-items: center;
+}
+
+
+.ota {
+    border: 10px solid red;
+    background-color: black;
+    padding: 15px;
+   margin-left: 396px;
+    height: 255px;
+    width: 654px;
+    margin-top: 41px;
+}
+
+
+
+.card1 {
+    background-color: #1FE8B7;
+    justify-content: center;
+    
+}
+
+
+.card1 p {
+    padding: 25px;
+}
